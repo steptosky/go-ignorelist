@@ -1,3 +1,5 @@
 .idea/
 projectFilesBackup/
 build/
+go-ignorelist.iml
+vendor/
